@@ -1,3 +1,11 @@
+/*
+Markus Hvid Monin (s194011)
+Anders Eiersted Molzen (s194024)
+Magnus Flemming Jørgensen (s194013)
+DTU Elektro
+31015 - Fagprojekt - F21
+*/
+
 #include "Adafruit_FONA.h"
 
 #define FONA_RX  9
