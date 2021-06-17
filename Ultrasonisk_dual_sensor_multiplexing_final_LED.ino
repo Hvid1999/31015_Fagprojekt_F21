@@ -1,3 +1,11 @@
+/*
+Markus Hvid Monin (s194011)
+Anders Eiersted Molzen (s194024)
+Magnus Flemming Jørgensen (s194013)
+DTU Elektro
+31015 - Fagprojekt - F21
+*/
+
 #include <SoftwareSerial.h> //Used to allow serial communications via all pins
 #include <MedianFilterLib2.h> //Used for filtering sensor values
 #include <FastLED.h> //Used for LED strips
